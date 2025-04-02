@@ -1,1 +1,1 @@
-# Movie-Reservation-System-Using-Java
+# Movie-Ticket-Reservation-System-uom-project
